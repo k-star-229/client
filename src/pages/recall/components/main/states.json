@@ -1,0 +1,629 @@
+
+     [
+      {
+        "type": "states",
+        "id": "20cbd6e4-bffb-11eb-9cf9-0242ac110002",
+        "attributes": {
+          "name": "Alabama",
+          "abbreviation": "AL",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/al-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20cf4e50-bffb-11eb-876f-0242ac110002",
+        "attributes": {
+          "name": "Alaska",
+          "abbreviation": "AK",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ak-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20cfd6e0-bffb-11eb-b1f3-0242ac110002",
+        "attributes": {
+          "name": "Arizona",
+          "abbreviation": "AZ",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/az-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d059f8-bffb-11eb-a752-0242ac110002",
+        "attributes": {
+          "name": "Arkansas",
+          "abbreviation": "AR",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ar-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d0d158-bffb-11eb-b127-0242ac110002",
+        "attributes": {
+          "name": "California",
+          "abbreviation": "CA",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ca-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d12d60-bffb-11eb-9058-0242ac110002",
+        "attributes": {
+          "name": "Colorado",
+          "abbreviation": "CO",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/co-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d1926e-bffb-11eb-9cbe-0242ac110002",
+        "attributes": {
+          "name": "Connecticut",
+          "abbreviation": "CT",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ct-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d1f826-bffb-11eb-a4b3-0242ac110002",
+        "attributes": {
+          "name": "Delaware",
+          "abbreviation": "DE",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/de-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20e20b3a-bffb-11eb-aa95-0242ac110002",
+        "attributes": {
+          "name": "District of Columbia",
+          "abbreviation": "DC",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/dc-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d25406-bffb-11eb-91b1-0242ac110002",
+        "attributes": {
+          "name": "Florida",
+          "abbreviation": "FL",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/fl-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d2cc6a-bffb-11eb-a50a-0242ac110002",
+        "attributes": {
+          "name": "Georgia",
+          "abbreviation": "GA",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ga-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d33696-bffb-11eb-bb2e-0242ac110002",
+        "attributes": {
+          "name": "Hawaii",
+          "abbreviation": "HI",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/hi-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d3afb8-bffb-11eb-a6f0-0242ac110002",
+        "attributes": {
+          "name": "Idaho",
+          "abbreviation": "ID",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/id-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d420ce-bffb-11eb-90de-0242ac110002",
+        "attributes": {
+          "name": "Illinois",
+          "abbreviation": "IL",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/il-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d49da6-bffb-11eb-a7a1-0242ac110002",
+        "attributes": {
+          "name": "Indiana",
+          "abbreviation": "IN",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/in-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d50872-bffb-11eb-8b2f-0242ac110002",
+        "attributes": {
+          "name": "Iowa",
+          "abbreviation": "IA",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ia-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d566dc-bffb-11eb-a460-0242ac110002",
+        "attributes": {
+          "name": "Kansas",
+          "abbreviation": "KS",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ks-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d5c85c-bffb-11eb-af40-0242ac110002",
+        "attributes": {
+          "name": "Kentucky",
+          "abbreviation": "KY",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ky-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d62464-bffb-11eb-a0c2-0242ac110002",
+        "attributes": {
+          "name": "Louisiana",
+          "abbreviation": "LA",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/la-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d76c34-bffb-11eb-a9d4-0242ac110002",
+        "attributes": {
+          "name": "Maine",
+          "abbreviation": "ME",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/me-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d7bf40-bffb-11eb-8215-0242ac110002",
+        "attributes": {
+          "name": "Maryland",
+          "abbreviation": "MD",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/md-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d81472-bffb-11eb-9490-0242ac110002",
+        "attributes": {
+          "name": "Massachusetts",
+          "abbreviation": "MA",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ma-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d85cfc-bffb-11eb-823c-0242ac110002",
+        "attributes": {
+          "name": "Michigan",
+          "abbreviation": "MI",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/mi-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d8a978-bffb-11eb-8a84-0242ac110002",
+        "attributes": {
+          "name": "Minnesota",
+          "abbreviation": "MN",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/mn-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d8f8ce-bffb-11eb-9c66-0242ac110002",
+        "attributes": {
+          "name": "Mississippi",
+          "abbreviation": "MS",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ms-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d94216-bffb-11eb-ac46-0242ac110002",
+        "attributes": {
+          "name": "Missouri",
+          "abbreviation": "MO",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/mo-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d9969e-bffb-11eb-b2c8-0242ac110002",
+        "attributes": {
+          "name": "Montana",
+          "abbreviation": "MT",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/mt-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20d9e702-bffb-11eb-a017-0242ac110002",
+        "attributes": {
+          "name": "Nebraska",
+          "abbreviation": "NE",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ne-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20da4080-bffb-11eb-aa6a-0242ac110002",
+        "attributes": {
+          "name": "Nevada",
+          "abbreviation": "NV",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/nv-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20daa32c-bffb-11eb-a050-0242ac110002",
+        "attributes": {
+          "name": "New Hampshire",
+          "abbreviation": "NH",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/nh-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20db06aa-bffb-11eb-9b4a-0242ac110002",
+        "attributes": {
+          "name": "New Jersey",
+          "abbreviation": "NJ",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/nj-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20db68fc-bffb-11eb-9036-0242ac110002",
+        "attributes": {
+          "name": "New Mexico",
+          "abbreviation": "NM",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/nm-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20dbdd5a-bffb-11eb-8862-0242ac110002",
+        "attributes": {
+          "name": "New York",
+          "abbreviation": "NY",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ny-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20dc6284-bffb-11eb-9e05-0242ac110002",
+        "attributes": {
+          "name": "North Carolina",
+          "abbreviation": "NC",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/nc-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20dcd368-bffb-11eb-9735-0242ac110002",
+        "attributes": {
+          "name": "North Dakota",
+          "abbreviation": "ND",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/nd-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20dd38ee-bffb-11eb-895d-0242ac110002",
+        "attributes": {
+          "name": "Ohio",
+          "abbreviation": "OH",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/oh-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20ddc516-bffb-11eb-8ac7-0242ac110002",
+        "attributes": {
+          "name": "Oklahoma",
+          "abbreviation": "OK",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ok-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20de23c6-bffb-11eb-ac45-0242ac110002",
+        "attributes": {
+          "name": "Oregon",
+          "abbreviation": "OR",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/or-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20de6d40-bffb-11eb-ac83-0242ac110002",
+        "attributes": {
+          "name": "Pennsylvania",
+          "abbreviation": "PA",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/pa-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20e2543c-bffb-11eb-84fc-0242ac110002",
+        "attributes": {
+          "name": "Puerto Rico",
+          "abbreviation": "PR",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/pr-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20deb0c0-bffb-11eb-ab32-0242ac110002",
+        "attributes": {
+          "name": "Rhode Island",
+          "abbreviation": "RI",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ri-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20def94a-bffb-11eb-a6db-0242ac110002",
+        "attributes": {
+          "name": "South Carolina",
+          "abbreviation": "SC",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/sc-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20df3b3a-bffb-11eb-ac84-0242ac110002",
+        "attributes": {
+          "name": "South Dakota",
+          "abbreviation": "SD",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/sd-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20df8540-bffb-11eb-8414-0242ac110002",
+        "attributes": {
+          "name": "Tennessee",
+          "abbreviation": "TN",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/tn-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20dfcd7a-bffb-11eb-8964-0242ac110002",
+        "attributes": {
+          "name": "Texas",
+          "abbreviation": "TX",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/tx-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20e0188e-bffb-11eb-a915-0242ac110002",
+        "attributes": {
+          "name": "Utah",
+          "abbreviation": "UT",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/ut-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20e06550-bffb-11eb-9b67-0242ac110002",
+        "attributes": {
+          "name": "Vermont",
+          "abbreviation": "VT",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/vt-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20e0a07e-bffb-11eb-bf49-0242ac110002",
+        "attributes": {
+          "name": "Virginia",
+          "abbreviation": "VA",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/va-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20e0dc38-bffb-11eb-8994-0242ac110002",
+        "attributes": {
+          "name": "Washington",
+          "abbreviation": "WA",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/wa-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20e11c52-bffb-11eb-b654-0242ac110002",
+        "attributes": {
+          "name": "West Virgina",
+          "abbreviation": "WV",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/wv-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20e1614e-bffb-11eb-ae94-0242ac110002",
+        "attributes": {
+          "name": "Wisconsin",
+          "abbreviation": "WI",
+          "summary": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et odio nisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. In at quam orci. Curabitur eleifend scelerisque rhoncus. Cras tincidunt, magna sed maximus vehicula, sem dolor porta orci, et mollis massa eros a eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/wi-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-06-01 12:37:05"
+        }
+      },
+      {
+        "type": "states",
+        "id": "20e1be96-bffb-11eb-8a87-0242ac110002",
+        "attributes": {
+          "name": "Wyoming",
+          "abbreviation": "WY",
+          "summary": null,
+          "image": "https://assets.cdn.usconcealedcarry.com/reciprocity/states/wy-seal.png",
+          "createdAt": "2021-05-28 16:24:47",
+          "updatedAt": "2021-05-28 16:24:47"
+        }
+      }
+    ]
+
+  
