@@ -308,8 +308,8 @@ export const createUserAccount = (userData) => dispatch => {
   };
   axios
     .post('http://3.236.30.167:5000/api/users/', userData, config)
-    .then(console.log("success"))
-    .catch(console.log("error"));
+    .then(res => console.log("success",res))
+    .catch(err => console.log("error",err));
 };
 
 export const getProfile = (id, setUserData) => dispatch => {

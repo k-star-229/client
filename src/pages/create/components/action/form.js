@@ -64,10 +64,10 @@ const TakeActionForm = () => {
     // const [loading, setLoading] = useState(false);
     // const [checked, setChecked] = useState(false);
     // const [success, setSuccess] = useState(false);
-    const onFinish = (values) => {
+    const onFinish = async (values) => {
         console.log('Finish:', values);
-        dispatch(createUserAccount(values));
-        // navigate('/profileeditor');
+        await dispatch(createUserAccount(values));
+        navigate('/profileeditor');
       };
     
       return (
@@ -129,6 +129,17 @@ const TakeActionForm = () => {
                                     ]}
                                 >
                                     <Input size='large' placeholder='Phone'/>
+                                </Item>
+                                <Item
+                                    name='password'
+                                    rules={[
+                                        {
+                                            required: true,
+                                            message: 'Password number is required'
+                                        }
+                                    ]}
+                                >
+                                    <Input type='password' size='large' placeholder='Password'/>
                                 </Item>
                                 <Item>
                                     <Checkbox
